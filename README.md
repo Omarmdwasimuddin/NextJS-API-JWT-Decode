@@ -1,6 +1,6 @@
 ## NextJS-API-JWT-Decode
 
-### 
+### JWT Token Verification & Decoding
 ![](https://imgur.com/foUp1eV.png)
 
 ```bash
